@@ -1,4 +1,4 @@
-# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b23e9b0-06e6-437f-a0fd-4fa19396ddab" /># 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
 
 ## ALGORITHM:
@@ -52,7 +52,9 @@ s.close()
 ```
 ## OUPUT
 
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51dc757e-33de-4df3-b745-3ab79c84569a" />
+
+
 
 
 ## RESULT
