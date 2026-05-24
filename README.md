@@ -47,7 +47,7 @@ while i < n:
     i += w 
 s.close()
 ```
-## OUPUT
+## OUTPUT
 
 <img width="1911" height="1021" alt="Screenshot 2026-05-11 085926" src="https://github.com/user-attachments/assets/bb2698b7-7680-41db-b4b1-bd96b682900d" />
 
