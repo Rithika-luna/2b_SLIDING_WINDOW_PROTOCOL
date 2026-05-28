@@ -12,7 +12,8 @@
 6. Stop the Program
 
 ## PROGRAM
-## Client:
+## Server:
+
 ```
 
 import socket 
@@ -32,7 +33,8 @@ while True:
 conn.close()
 
 ```
-## Server:
+## Client:
+
 ```
 import socket 
 s = socket.socket() 
